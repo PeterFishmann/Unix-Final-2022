@@ -13,7 +13,7 @@
 - Week 3: SSH Key Implementation, Script Ideas, Presentation Prep
 - Week 4: Script Development & Implementation
 
-## Requirements 
+## What Is Needed 
 - VPS
   - Digital Ocean
   - OVH Cloud
