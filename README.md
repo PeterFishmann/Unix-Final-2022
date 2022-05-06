@@ -38,6 +38,14 @@
 - Linux or Mac
     - Done Through Terminal
       - Optinal use of VirtualBox or other VM.
+      - 
+## Distribution Choice
+  - Debian
+    - Pros:
+    - Cons:
+  - Ubuntu
+    - Pros
+    - Cons:  
   
 ## Your choice of VPS server
   - OVH Cloud:
@@ -48,11 +56,4 @@
     - Cons:
   - Digital Ocean:
     - Pros:
-    - Cons:
-## Your choice of Distribution
-  - Debian
-    - Pros:
-    - Cons:
-  - Ubuntu
-    - Pros
     - Cons:
