@@ -11,8 +11,8 @@
 ## Weekly Progress
 - Week 1: Research VPS Options, Connection To VPS
 - Week 2: GitHub Creation, File Initialization
-- Week 3: SSH Key Implementation, Script Ideas, Presentation Prep
-- Week 4: Script Development & Implementation
+- Week 3: Script Ideas, Presentation Prep
+- Week 4: Script Development & Implementation, SSH Key Implementation
 
 ## What Is Needed 
 - VPS
