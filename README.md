@@ -2,6 +2,7 @@
 
 ## Description 
 - Create a Minecraft server hosted using an online VPS and connected the file via a linux system.
+- How to [install](INSTALL.md).
 
 ## Goal
 - The goal of this project is to used what we learned in Unix course and apply it in real life scenarios. This project will demonstrate our knowledge in Linux environnement, used of VPS and Web server.
@@ -41,19 +42,19 @@
       - 
 ## Distribution Choice
   - Debian
-    - Pros:
-    - Cons:
+    - Pros: Security, Stable, Familiarity, Upgrades, Free.
+    - Cons: Not Frequently Updated, A bit complicated.
   - Ubuntu
-    - Pros
-    - Cons:  
+    - Pros: Free, Easy To Use, User Friendly, Security, Customizable.
+    - Cons: File Management, Functionality
   
 ## Your choice of VPS server
   - OVH Cloud:
-    - Pros:
-    - Cons:
+    - Pros: Cheap, Good Connection & Network, Tools, Security.
+    - Cons: Support.
   - Amazon AWS:
-    - Pros:
-    - Cons:
+    - Pros: Variety, Cloud Security, Developper Friendly
+    - Cons: UI, Billing, Support.
   - Digital Ocean:
-    - Pros:
-    - Cons:
+    - Pros: UI, Price, Providers, Friendly Support. 
+    - Cons: Products, Region Locked, Slow Support.
