@@ -80,8 +80,7 @@
 
 ### Credits
 - You can find a tutorial to a perfect step by step explanation here:
- - [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/LLS4xgwMTQQ&t=29s/0.jpg)](https://www.youtube.com/watch?v=LLS4xgwMTQQ&t=29s)
-
+ - [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/LLS4xgwMTQQ&t.jpg)](https://www.youtube.com/watch?v=LLS4xgwMTQQ&t)
 
 [PuTTY]:https://docs.oracle.com/en/cloud/paas/event-hub-cloud/admin-guide/generate-ssh-key-pair-using-puttygen.html
 [WinSCP]:https://winscp.net/eng/download.php
