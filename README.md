@@ -6,7 +6,6 @@
 
 ## Goal
 - The goal of this project is to used what we learned in Unix course and apply it in real life scenarios. This project will demonstrate our knowledge in Linux environnement, used of VPS and Web server.
-- Additionally, this will demonstrate our skills to work in a team.
 
 ## Weekly Progress
 - Week 1: Research VPS Options, Connection To VPS
