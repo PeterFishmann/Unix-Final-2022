@@ -38,7 +38,7 @@
 - Drag the server.jar file into the minecraft folder.
 - Return to WinSCP and enter the command:
  - `cd minecraft`
-- Return back to the [link][MCServer] and copy the command that is show.
+- Return back to the [link][MCServer] and copy the command that is shown.
 - Open up PuTTY again, and enter the following, but switch part of the text to server.jar, as that is what we labeled the jar file and execute:
  - `sudo java -Xmx1024M -Xms1024M -jar sever.jar nogui` 
 
